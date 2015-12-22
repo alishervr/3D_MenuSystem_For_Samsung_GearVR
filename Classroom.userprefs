@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Travel.cs">
+    <Files>
+      <File FileName="..\..\toBalnivash\WorkingOne\3DMenu-master\Assets\Scripts\DoorReplication.cs" Line="163" Column="10" />
+      <File FileName="..\..\ProjectPresentationPrototype\3DMenu-f92ce60dd92c4abd2db1105031940cde90f73d62\Assets\Scripts\duplicateRoom.cs" Line="1" Column="1" />
+      <File FileName="..\..\Example Manipulation\Unity Manipulation Project\Assets\Scripts\RayCasting.cs" Line="94" Column="44" />
+      <File FileName="Assets\Scripts\Travel.cs" Line="23" Column="74" />
+      <File FileName="Assets\Scripts\RayCastSpecimen.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
